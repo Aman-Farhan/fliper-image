@@ -1,0 +1,24 @@
+.swiperImages{
+    position: absolute;
+    left: 20%;
+    height: 450px;
+    width: 60%;
+
+}
+
+
+.arowsImages{
+    position: absolute;
+    width: 55px;
+    height: 45px;
+}
+
+.forwad-arrow{
+    left: 82%;
+    top: 200px;
+}
+
+.backwad-arrow{
+    left: 15%;
+    top: 200px;
+}
